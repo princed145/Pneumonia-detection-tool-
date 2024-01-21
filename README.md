@@ -12,3 +12,16 @@ Accurately diagnosing pneumonia is challenging and involves several steps.<br>
 
 # Problem Statement 
 Our Goal is to Build an Algorithm which Accurately Classifies the X-ray images(NORMAL VS PNEUMONIA)
+
+# Dataset Description
+We are given with chest X-Ray Images of Pneumonia and Normal Patients,<br>
+We are given a separate file for X-ray of normal patients and Pneumonia patient each in training, testing set and Validation Set <br>
+
+TRAINING SET:<br>
+We have 5216 entities in our Training data<br>
+TESTING SET:<br>
+We have 624 entities in our Testing data<br>
+VALIDATION SET:<br>
+We have 16 entities in our Validation data<br>
+
+
