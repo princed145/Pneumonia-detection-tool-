@@ -24,4 +24,19 @@ We have 624 entities in our Testing data<br>
 VALIDATION SET:<br>
 We have 16 entities in our Validation data<br>
 
+# Methods
+Data Organization and Profiling <br>
+
+Data Preparation for Model Building<br>
+
+**Augmenting the Training Data**<br>
+
+To Increasing the Diversity of Traning Data - Applying Random Transformation (Like Flips, Shift, Zoom)<br>
+To Reduce Overfitting<br>
+To Improve Generalization<br>
+For Better Feature Learning<br>
+
+**Data Normalization**<br>
+
+
 
