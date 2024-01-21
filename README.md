@@ -1,6 +1,6 @@
 # PROJECT REPORT 
 # Title
-Pneumonia detection tool
+X-ray Image Classifier for Pneumonia Detection
 # Introduction/Description 
 Pneumonia is one of the leading causes of death worldwide, particularly among young children and the elderly. It is estimated to be responsible for millions of deaths annually.
 There were an estimated 880,000 deaths from pneumonia in children under the age of five in 2016. Most were less than 2 years of age.
