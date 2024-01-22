@@ -48,7 +48,7 @@ The above Two methods are been applied by defining data generators <br>
 
 Using keras Custom CNN Model for Model Building <br>
 
-# Model Evaluation
+# Results
 
 **Validation set Evaluation**	<br>
 Validation loss: 0.6133 <br>
