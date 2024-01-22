@@ -70,7 +70,7 @@ Our Model is 88.4% Accurate in Predicting Pneumonia Images on TEST SET
 
 # Results 
 CONCLUSION/RESULT<br> 
-Our Model is 50% Accurate in distinguishes the Positive Class, which is same as by Random Chance
-Without any Medical expertise anyone can understand that in this scenario Recall is the most IMP Metrics Here because Recall concludes that how is our model is good in predicting the Positive class in this case it is Pneumonia
-We are getting 50% Recall on our test Set, means that our Model is correctly identifying half of the Pneumonia cases (true positives), while the other half of the positive cases is being classified as negatives (false negatives). Suppose we have 120 Pneumonia cases on our test set then out model will correctly Identify 60 of them
+Our Model is 50% Accurate in distinguishes the Positive Class, which is same as by Random Chance <br> 
+Without any Medical expertise anyone can understand that in this scenario Recall is the most IMP Metrics Here because Recall concludes that how is our model is good in predicting the Positive class in this case it is Pneumonia <br> 
+We are getting 50% Recall on our test Set, means that our Model is correctly identifying half of the Pneumonia cases (true positives), while the other half <br> of the positive cases is being classified as negatives (false negatives). Suppose we have 120 Pneumonia cases on our test set then out model will correctly Identify 60 of them
 
