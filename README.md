@@ -64,6 +64,8 @@ Our Model is 88.4% Accurate in Predicting Pneumonia Images on TEST SET
 <br>
 ![image](https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac)
 
-
+**ROC-AUC Curve** <br>
+<br>
+![image](https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/30a83c2a-d9e3-43a3-ac2d-46450fe03591)
 
 
