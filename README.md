@@ -38,5 +38,30 @@ For Better Feature Learning<br>
 
 **Data Normalization**<br>
 
+Re-scaling Pixels to a standard size <br>
+
+**Data Generators**<br>
+
+The above Two methods are been applied by defining data generators <br>
+
+# Model Building
+
+Using keras Custom CNN Model for Model Building <br>
+
+# Model Evaluation
+
+**Validation set Evaluation**	
+Validation loss: 0.6133 <br>
+Validation accuracy: 0.6875 <br>
+Our Model is 68.75% Accurate in Predicting Pneumonia Images on the VALIDATION SET <br>
+
+**Test set Evaluation**	
+Test loss: 0.3352278769016266
+Test accuracy: 0.8846153616905212
+Our Model is 88.4% Accurate in Predicting Pneumonia Images on TEST SET
+
+![image](https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac)
+
+
 
 
