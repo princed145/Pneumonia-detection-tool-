@@ -25,9 +25,9 @@ VALIDATION SET:<br>
 We have 16 entities in our Validation data<br>
 
 # Methods
-Data Organization and Profiling <br>
+**Data Organization and Profiling** <br>
 
-Data Preparation for Model Building<br>
+**Data Preparation for Model Building** <br>
 
 **Augmenting the Training Data**<br>
 
