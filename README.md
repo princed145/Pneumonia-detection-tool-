@@ -61,7 +61,7 @@ Test accuracy: 0.8846153616905212 <br>
 Our Model is 88.4% Accurate in Predicting Pneumonia Images on TEST SET
 
 **CLASSIFCATION REPORT (1:Pneumonia 0: Normal)** <br>
-
+<br>
 ![image](https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac)
 
 
