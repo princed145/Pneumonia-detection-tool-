@@ -40,7 +40,7 @@ The primary objective of this project is to develop a deep learning model that c
 * Accurately classify chest X-ray images as Normal or Pneumonia.
 
 ## DATA 
-Download the dataset using the Link: https://drive.google.com/uc?export=download&id=1_3qf9Qh_GOjK_9dME289UeS37Luk5YKg
+**This project dataset can be downloaded using the Link:** https://tinyurl.com/pneumonia-dataset
 
 We are given with chest X-Ray Images of Pneumonia and Normal Patients,<br>
 We are given a separate file for X-ray of normal patients and Pneumonia patient each in training, testing set and Validation Set <br>
@@ -160,3 +160,8 @@ Conclusion & Key Findings
 * Improving Recall: Since missing pneumonia cases can have severe health implications, the next step would be to tune the model (e.g., adjusting class weights, using different architectures, or increasing data augmentation) to reduce false negatives.
 * Balancing Precision & Recall: While recall is crucial, optimizing precision is also necessary to minimize false alarms.
 * Exploring Additional Features: Incorporating clinical metadata (e.g., patient symptoms, age, or medical history) alongside X-ray images may enhance prediction accuracy.
+
+
+## REFERENCES
+
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
