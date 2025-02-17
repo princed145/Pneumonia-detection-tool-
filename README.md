@@ -39,6 +39,33 @@ Accurately diagnosing pneumonia is challenging and involves several steps.<br>
 The primary objective of this project is to develop a deep learning model that can:
 * Accurately classify chest X-ray images as Normal or Pneumonia.
 
+## TECH-STACK
+
+- **Programming Language**:
+  - Python – The core programming language used for data preprocessing, model building, and evaluation.
+
+- **Libraries & Frameworks**:
+  - TensorFlow & Keras – Used for building and training the Convolutional Neural Network (CNN) model.
+  - NumPy – For handling arrays and performing mathematical operations on image data.
+  - Matplotlib & Seaborn – For visualizing results, graphs, and training progress.
+  - OpenCV – To handle image processing tasks like resizing and normalization.
+ 
+- **Development Environment:**
+  - Jupyter Notebooks – For an interactive development environment and documentation of experiments.
+  - Google Colab – For running models on cloud GPUs, allowing faster training and validation.
+
+- **Model Evaluation Metrics:**
+  - Accuracy – To evaluate the proportion of correct predictions.
+  - Recall – To measure the model’s ability to identify all pneumonia cases.
+  - Loss Function:
+  - Binary Crossentropy – Used to calculate the loss for binary classification (Normal vs. Pneumonia).
+
+- **Image Processing & Data Augmentation:**
+  - Keras ImageDataGenerator – Used for real-time data augmentation (e.g., flips, shifts, zooms) to increase the diversity of training data.
+ 
+- **Version Control:**
+  - Git & GitHub – For version control and collaborative development of the project.
+
 ## DATA 
 **This project dataset can be downloaded using the Link:** https://tinyurl.com/pneumonia-dataset
 
