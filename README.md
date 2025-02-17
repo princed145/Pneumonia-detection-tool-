@@ -13,7 +13,7 @@
 5. [Data](#DATA)
 6. [Model Building](#MODEL-BUILDING)
 7. [Model Evaluation](#MODEL-EVALUATION)
-8. [Project Outcomes & Insights](#PROJECT-OUTCOMES-AND-INSIGHTS)  
+8. [Project Outcomes & Insights](#PROJECTS-OUTCOMES-&-INSIGHTS)   
 9. [Challenges](#challenges)
 10. [Key Takeaways & Next Steps](#Key-Takeaways-&-Next-Steps)
 13. [References](#references)  
@@ -116,14 +116,15 @@ cnn_model = cnn.fit(
 
 **Classification Report (1:Pneumonia 0: Normal)** <br>
 <br>
-<img src="https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac" width="650" height="350" alt="Alt text">
+<img src="https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac" width="650" height="300" alt="Alt text">
 
 
 **ROC-AUC Curve** <br>
 <br>
-![image](https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/30a83c2a-d9e3-43a3-ac2d-46450fe03591)
+<img src="https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/30a83c2a-d9e3-43a3-ac2d-46450fe03591" width="450" height="350" alt="Alt text"><br>
 
-## RESULTS AND OUTCOMES 
+
+## PROJECT OUTCOMES & INSIGHTS 
 
 Conclusion & Key Findings
 * The model achieves 50% accuracy in distinguishing pneumonia-positive cases, which is equivalent to random chance.
