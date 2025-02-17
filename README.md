@@ -7,7 +7,7 @@
 ## Table of Contents
 
 1. [Overview](#OVERVIEW)  
-2. [Background & Problem Statement](#BACKGROUND-&-PROBLEM-STATEMENT)  
+2. [Background & Problem Statement](#BACKGROUND--PROBLEM--STATEMENT)  
 3. [Aim](#AIM)
 4. [Tech Stack](#TECH-STACK)
 5. [Data](#DATA)
@@ -16,7 +16,7 @@
 8. [Project Outcomes & Insights](#PROJECTS-OUTCOMES-&-INSIGHTS)   
 9. [Challenges](#challenges)
 10. [Key Takeaways & Next Steps](#Key-Takeaways-&-Next-Steps)
-13. [References](#references)  
+11. [References](#references)  
 
 ## OVERVIEW
 Pneumonia is a severe lung infection that affects millions of people globally, with young children and the elderly being the most vulnerable. Early detection of pneumonia is critical for timely medical intervention and reducing mortality rates. However, diagnosing pneumonia through chest X-ray (CXR) images can be challenging due to similarities with other lung conditions.
