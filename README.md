@@ -10,10 +10,12 @@
 2. [Background & Problem Statement](#BACKGROUND--PROBLEM-STATEMENT)  
 3. [Aim](#AIM)
 4. [Tech Stack](#TECH-STACK)
-5. [Data](#DATA)  
-6. [Project Outcomes & Insights](#PROJECT-OUTCOMES-AND-INSIGHTS)  
-7. [Challenges](#challenges)
-8. [Recommendation](#RECOMMENDATION)
+5. [Data](#DATA)
+6. [Model Building](#MODEL-BUILDING)
+7. [Model Evaluation](#MODEL-EVALUATION)
+8. [Project Outcomes & Insights](#PROJECT-OUTCOMES-AND-INSIGHTS)  
+9. [Challenges](#challenges)
+10. [Recommendation](#RECOMMENDATION)
 13. [References](#references)  
 
 ## OVERVIEW
@@ -33,7 +35,7 @@ Accurately diagnosing pneumonia is challenging and involves several steps.<br>
 * Reduce the dependency on expert radiologists for initial screening.
 * Enhance early detection to improve patient outcomes.
 
-## Aim 
+## AIM
 The primary objective of this project is to develop a deep learning model that can:
 * Accurately classify chest X-ray images as Normal or Pneumonia.
 
