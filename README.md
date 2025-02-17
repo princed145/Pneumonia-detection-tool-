@@ -15,7 +15,7 @@
 7. [Model Evaluation](#MODEL-EVALUATION)
 8. [Project Outcomes & Insights](#PROJECT-OUTCOMES-AND-INSIGHTS)  
 9. [Challenges](#challenges)
-10. [Recommendation](#RECOMMENDATION)
+10. [Key Takeaways & Next Steps](#Key-Takeaways-&-Next-Steps)
 13. [References](#references)  
 
 ## OVERVIEW
@@ -104,7 +104,7 @@ Conclusion & Key Findings
   * The other half of pneumonia cases are misclassified as negative (False Negatives).
 <br> **For example**, if there are 120 pneumonia cases in the test set, the model correctly identifies only 60 cases, while 60 cases go undetected, which is a major limitation in a real-world healthcare setting.
 
-## Key Takeaways & Next Steps
+## KEY TAKEAWAYS & NEXT STEPS
 * Improving Recall: Since missing pneumonia cases can have severe health implications, the next step would be to tune the model (e.g., adjusting class weights, using different architectures, or increasing data augmentation) to reduce false negatives.
 * Balancing Precision & Recall: While recall is crucial, optimizing precision is also necessary to minimize false alarms.
 * Exploring Additional Features: Incorporating clinical metadata (e.g., patient symptoms, age, or medical history) alongside X-ray images may enhance prediction accuracy.
