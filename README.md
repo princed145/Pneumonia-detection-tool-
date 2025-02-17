@@ -153,7 +153,7 @@ cnn_model = cnn.fit(
 <img src="https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/30a83c2a-d9e3-43a3-ac2d-46450fe03591" width="450" height="350" alt="Alt text"><br>
 
 
-## PROJECT OUTCOMES & INSIGHTS 
+## PROJECT INSIGHTS & OUTCOMES 
 
 Conclusion & Key Findings
 * The model achieves 50% accuracy in distinguishing pneumonia-positive cases, which is equivalent to random chance.
