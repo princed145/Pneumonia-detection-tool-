@@ -13,9 +13,9 @@
 5. [Data](#DATA)
 6. [Model Building](#MODEL-BUILDING)
 7. [Model Evaluation](#MODEL-EVALUATION)
-8. [Project Insights & Outcomes](#project--insights-outcomes)   
+8. [Project Insights & Outcomes](#project-insights--outcomes)   
 9. [Challenges](#challenges)
-10. [Key Takeaways & Next Steps](#Key-Takeaways-&-Next-Steps)
+10. [Key Takeaways & Next Steps](#Key-Takeaways---Next-Steps)
 11. [References](#references)  
 
 ## OVERVIEW
