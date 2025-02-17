@@ -136,6 +136,26 @@ Conclusion & Key Findings
   * The other half of pneumonia cases are misclassified as negative (False Negatives).
 <br> **For example**, if there are 120 pneumonia cases in the test set, the model correctly identifies only 60 cases, while 60 cases go undetected, which is a major limitation in a real-world healthcare setting.
 
+## CHALLENGES
+
+- Data Quality & Quantity:
+
+  Ensuring the X-ray images are of consistent quality and resolution.
+  Handling missing, mislabeled, or corrupted images.
+
+-  Class Imbalance:
+
+  Balancing the number of normal versus pneumonia cases to prevent bias in the model.
+
+- Overfitting:
+
+  The model may learn the training data too well, failing to generalize on unseen data.
+  Limited data availability could increase the risk of overfitting.
+
+- Data Augmentation Complexity:
+
+  Applying transformations (e.g., flips, shifts, zooms) without distorting critical medical features
+
 ## KEY TAKEAWAYS & NEXT STEPS
 * Improving Recall: Since missing pneumonia cases can have severe health implications, the next step would be to tune the model (e.g., adjusting class weights, using different architectures, or increasing data augmentation) to reduce false negatives.
 * Balancing Precision & Recall: While recall is crucial, optimizing precision is also necessary to minimize false alarms.
