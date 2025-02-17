@@ -23,7 +23,7 @@ Pneumonia is a severe lung infection that affects millions of people globally, w
 
 This project aims to develop an AI-powered pneumonia detection model using deep learning techniques to classify chest X-ray images as either "Normal" or "Pneumonia". By leveraging latest Deep learning algorithm , the model can assist radiologists and healthcare professionals in improving diagnostic accuracy, reducing human error, and accelerating decision-making.
 
-## BACKGROUND AND PROBLEM STATEMENT
+## BACKGROUND & PROBLEM STATEMENT
 Pneumonia is one of the leading causes of death worldwide, particularly among young children and the elderly. It is estimated to be responsible for millions of deaths annually.<br>
 There were an estimated 880,000 deaths from pneumonia in children under the age of five in 2016. Most were less than 2 years of age.
 2.5 million people died from pneumonia in 2019. Almost a third of all victims were children younger than 5 years, it is the leading cause of death for children under 5.<br>
