@@ -74,6 +74,28 @@ To ensure consistency, pixel values are re-scaled to a standard range, optimizin
 
 ## MODEL BUILDING
 
+After completing data preprocessing, the next step is to build a Convolutional Neural Network (CNN) for pneumonia classification using TensorFlow and Keras.
+
+### Model Architecture
+
+The CNN architecture consists of:
+ - Convolutional Layers – Extracts important features from X-ray images.
+ - Pooling Layers – Reduces dimensionality while retaining key information.
+ - Fully Connected Layers – Classifies images as Normal or Pneumonia.
+ - Activation Functions – ReLU for hidden layers, Sigmoid for output.
+
+### Training the Model
+We will train the model using binary cross-entropy loss, Adam optimizer, and track validation loss to save the best model.
+
+cnn_model = cnn.fit(
+    training_set,
+    steps_per_epoch=163,
+    epochs=1,
+    validation_data=validation_set,
+    validation_steps=624
+)
+
+
 ## MODEL EVALUATION
 
 **Validation set Evaluation**	<br>
@@ -81,14 +103,21 @@ To ensure consistency, pixel values are re-scaled to a standard range, optimizin
 * Validation accuracy: 0.6875 <br>
 * The Model achieves 68.75% Accuracy in Predicting Pneumonia Cases on the VALIDATION SET <br>
 
+
 **Test set Evaluation**	<br>
 * Test loss: 0.3352278769016266 <br>
 * Test accuracy: 0.8846153616905212 <br>
 * The model demonstrates 88.4% accuracy on the test dataset, indicating strong performance in classifying pneumonia cases.
 
-**CLASSIFCATION REPORT (1:Pneumonia 0: Normal)** <br>
+**Confusion Matrix** <br>
+
+<img src="https://github.com/user-attachments/assets/d609b752-8f27-4fd7-a52f-56fc574188e1" width="450" height="350" alt="Alt text"><br>
+
+
+**Classification Report (1:Pneumonia 0: Normal)** <br>
 <br>
-![image](https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac)
+<img src="https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac" width="650" height="350" alt="Alt text">
+
 
 **ROC-AUC Curve** <br>
 <br>
