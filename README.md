@@ -7,7 +7,7 @@
 ## Table of Contents
 
 1. [Introduction](#OVERVIEW)  
-2. [Background & Problem Statement](#BACKGROUND--PROBLEM-STATEMENT)  
+2. [Background & Problem Statement](#BACKGROUND-&-PROBLEM-STATEMENT)  
 3. [Aim](#AIM)
 4. [Tech Stack](#TECH-STACK)
 5. [Data](#DATA)
