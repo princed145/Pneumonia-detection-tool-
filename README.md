@@ -114,7 +114,7 @@ cnn_model = cnn.fit(
 <img src="https://github.com/user-attachments/assets/d609b752-8f27-4fd7-a52f-56fc574188e1" width="450" height="350" alt="Alt text"><br>
 
 
-**Classification Report (1:Pneumonia 0: Normal)** <br>
+**Classification Report (1: Pneumonia 0: Normal)** <br>
 <br>
 <img src="https://github.com/princed145/Pneumonia-detection-tool-/assets/63622088/6f6a6474-b97f-424e-af41-8a18cfb2a2ac" width="650" height="300" alt="Alt text">
 
